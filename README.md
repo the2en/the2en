@@ -31,7 +31,7 @@
 ![nltk](https://img.shields.io/badge/nltk-85C1E9.svg?&style=for-the-badge&logo=nltk&logoColor=black)
 ![bert](https://img.shields.io/badge/BERT-FF5733.svg?&style=for-the-badge&logo=transformers&logoColor=white)
 
-**🛠️ Development Tools & Platforms**
+**🛠️ Infra and Tools**
 
 ![gcp](https://img.shields.io/badge/gcp-4285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
 ![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
