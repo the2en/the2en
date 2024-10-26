@@ -7,23 +7,44 @@
 
 <!-- Body -->
 ### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
 
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+**🧑‍💻 Languages and Frameworks**
+
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
+![bigquery](https://img.shields.io/badge/bigquery-4285F4.svg?&style=for-the-badge&logo=google-bigquery&logoColor=white)
 
-**🛠️ Infra and Tools**
+**📊 Data Analysis and Visualization**
 
+![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-FFDD44.svg?&style=for-the-badge&logo=statsmodels&logoColor=black)
+![matplotlib](https://img.shields.io/badge/matplotlib-3776AB.svg?&style=for-the-badge&logo=matplotlib&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-9C27B0.svg?&style=for-the-badge&logo=seaborn&logoColor=white)
+
+**🤖 Machine Learning and Deep Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
+![nltk](https://img.shields.io/badge/nltk-85C1E9.svg?&style=for-the-badge&logo=nltk&logoColor=black)
+![bert](https://img.shields.io/badge/BERT-FF5733.svg?&style=for-the-badge&logo=transformers&logoColor=white)
+
+**🛠️ Development Tools & Platforms**
+
+![gcp](https://img.shields.io/badge/gcp-4285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
 ![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
-![jupyter](https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726)<br>
+![jupyter](https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726)
+
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br>
+![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![adobephotoshop](https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff)
 
-**📚 Studying**
+**📚 Currently Studying**
 
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -35,6 +56,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=the2en)](https://solved.ac/profile/the2en)
 
 ### 📫 Contact
-<a href="mailto:paff1984@naver.com">
-<img src="https://img.shields.io/badge/paff1984@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-</a>
+[![Email Badge](https://img.shields.io/badge/paff1984@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paff1984@naver.com)
