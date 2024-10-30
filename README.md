@@ -45,12 +45,15 @@
 
 **📚 Currently Studying**
 
+![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🚌 Top Languages & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the2en&layout=compact)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=the2en)](https://solved.ac/profile/the2en)
+
 
 ### 📫 Contact
 [![Email Badge](https://img.shields.io/badge/paff1984@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paff1984@naver.com)
