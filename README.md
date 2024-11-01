@@ -14,6 +14,7 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![bigquery](https://img.shields.io/badge/bigquery-4285F4.svg?&style=for-the-badge&logo=google-bigquery&logoColor=white)
+![c](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 
 **📊 Data Analysis and Visualization**
 
