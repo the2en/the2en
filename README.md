@@ -15,29 +15,27 @@
 ![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![bigquery](https://img.shields.io/badge/bigquery-4285F4.svg?&style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![c](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
-![excel vba](https://img.shields.io/badge/Excel%20VBA-217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![excel vba](https://img.shields.io/badge/Excel%20VBA-217346.svg?&style=for-the-badge)
 
 **📊 Data Analysis and Visualization**
 
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-FFDD44.svg?&style=for-the-badge&logo=statsmodels&logoColor=black)
-![matplotlib](https://img.shields.io/badge/matplotlib-3776AB.svg?&style=for-the-badge&logo=matplotlib&logoColor=white)
-![seaborn](https://img.shields.io/badge/seaborn-9C27B0.svg?&style=for-the-badge&logo=seaborn&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-FFDD44.svg?&style=for-the-badge)
+![matplotlib](https://img.shields.io/badge/matplotlib-3776AB.svg?&style=for-the-badge)
+![seaborn](https://img.shields.io/badge/seaborn-9C27B0.svg?&style=for-the-badge)
 
 **🤖 Machine Learning and Deep Learning**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
-![nltk](https://img.shields.io/badge/nltk-85C1E9.svg?&style=for-the-badge&logo=nltk&logoColor=black)
-![bert](https://img.shields.io/badge/BERT-FF5733.svg?&style=for-the-badge&logo=transformers&logoColor=white)
 
 **🛠️ Infra and Tools**
 
 ![gcp](https://img.shields.io/badge/gcp-4285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
 ![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
-![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726)<br>
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
@@ -50,7 +48,7 @@
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge)
 
 ### 🚌 Top Languages & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the2en&layout=compact)
