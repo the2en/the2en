@@ -15,6 +15,7 @@
 ![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![bigquery](https://img.shields.io/badge/bigquery-4285F4.svg?&style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![c](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
+![excel vba](https://img.shields.io/badge/Excel%20VBA-217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **📊 Data Analysis and Visualization**
 
