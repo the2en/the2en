@@ -14,7 +14,6 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![bigquery](https://img.shields.io/badge/bigquery-4285F4.svg?&style=for-the-badge&logo=google-bigquery&logoColor=white)
-![c](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![excel vba](https://img.shields.io/badge/Excel%20VBA-217346.svg?&style=for-the-badge)
 
 **🛠️ Infra and Tools**
@@ -32,6 +31,7 @@
 **📚 Currently Studying**
 
 ![java](https://img.shields.io/badge/java-5382a1.svg?&style=for-the-badge)
+![c](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
