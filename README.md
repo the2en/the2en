@@ -17,17 +17,6 @@
 ![c](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![excel vba](https://img.shields.io/badge/Excel%20VBA-217346.svg?&style=for-the-badge)
 
-**📊 Data Analysis and Machine Learning**
-
-![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-FFDD44.svg?&style=for-the-badge)
-![matplotlib](https://img.shields.io/badge/matplotlib-3776AB.svg?&style=for-the-badge)
-![seaborn](https://img.shields.io/badge/seaborn-9C27B0.svg?&style=for-the-badge)<br>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
-![pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
-![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
-
 **🛠️ Infra and Tools**
 
 ![gcp](https://img.shields.io/badge/gcp-4285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
