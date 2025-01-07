@@ -17,16 +17,13 @@
 ![c](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![excel vba](https://img.shields.io/badge/Excel%20VBA-217346.svg?&style=for-the-badge)
 
-**📊 Data Analysis and Visualization**
+**📊 Data Analysis and Machine Learning**
 
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-FFDD44.svg?&style=for-the-badge)
 ![matplotlib](https://img.shields.io/badge/matplotlib-3776AB.svg?&style=for-the-badge)
-![seaborn](https://img.shields.io/badge/seaborn-9C27B0.svg?&style=for-the-badge)
-
-**🤖 Machine Learning and Deep Learning**
-
+![seaborn](https://img.shields.io/badge/seaborn-9C27B0.svg?&style=for-the-badge)<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -45,6 +42,7 @@
 
 **📚 Currently Studying**
 
+![java](https://img.shields.io/badge/java-5382a1.svg?&style=for-the-badge)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
