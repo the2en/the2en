@@ -8,7 +8,7 @@
 <!-- Body -->
 ### 🦾 Skills
 
-**🧑‍💻 Languages and Frameworks**
+**🧑‍💻 Languages**
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
