@@ -34,7 +34,7 @@
 
 
 ### 🚌 Top Languages & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the2en&layout=compact)<br>
+<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=paff1984)](https://solved.ac/profile/paff1984)
 
 
