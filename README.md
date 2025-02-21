@@ -1,5 +1,5 @@
 <!-- Header -->
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Creating%20new%20value%20through%20analysis&desc=for%20a%20better%20tomorrow!&fontAlign=50&fontAlignY=25&color=gradient&fontSize=30&descAlign=50&descAlignY=50&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20Seeun's%20Github&fontSize=60)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthe2en&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
