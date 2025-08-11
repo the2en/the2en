@@ -30,9 +30,12 @@
 ![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 
+### 🚌 Top Languages
 
-### 🚌 Top Languages & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the2en&layout=compact)<br>
+
+### 🖥️ Algorithm
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=paff1984)](https://solved.ac/profile/paff1984)
 
 
