@@ -32,4 +32,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=paff1984)](https://solved.ac/profile/paff1984)
 
 ### 📫 Contact
-[![Email Badge](https://img.shields.io/badge/paff1984@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iblue0126@gmail.com)
+[![Email Badge](https://img.shields.io/badge/iblue0126@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iblue0126@gmail.com)
