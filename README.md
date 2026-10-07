@@ -1,5 +1,5 @@
 <!-- Header -->
-![Welcome to Seeun’s GitHub](assets/header.svg)
+![Welcome to Seeun’s GitHub](assets/header.png)
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fthe2en?color=purple&label=hits&size=small)](https://myhits.vercel.app)
 
 # Seeun Kim
