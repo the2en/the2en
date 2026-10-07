@@ -1,8 +1,16 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SenK&fontAlign=70&rotate=13&fontAlignY=25&desc=Welcome%20to%20Seeun's%20Github!&descAlign=60&descAlignY=44&fontColor=ffffff&descFontColor=ffffff)
+![Welcome to Seeun’s GitHub](assets/header.png)
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fthe2en?color=purple&label=hits&size=small)](https://myhits.vercel.app)
 
 # Seeun Kim
+
+### Things I made
+
+| 🌱 POP TREE | ◎ POTHOLE DETECTION |
+| :--- | :--- |
+| 소비 기록과 나무 성장, GPT 기반 금융상품 추천을 연결한 팀 프로젝트.<br>**Vue · Django · GPT**<br>[Repository ↗](https://github.com/the2en/poptree) | 도로 이미지 전처리와 포트홀 탐지를 실험한 AI 챌린지.<br>**Python · OpenCV · Computer Vision**<br>[Repository ↗](https://github.com/the2en/ssafy_ai_challenge) |
+| **▥ ESG PREDICTION** | **✦ THESEN.LOG** |
+| 기업 재무 데이터와 ESG 등급을 정리하고, 분류·회귀 모델로 예측을 실험한 프로젝트.<br>**Python · Pandas · scikit-learn**<br>[Repository ↗](https://github.com/the2en/ESG_Prediction) | 글, 취향, 프로젝트를 모아둔 레트로 도트 스타일의 개인 블로그.<br>**HTML · CSS · JavaScript**<br>[Repository ↗](https://github.com/the2en/the2en.github.io) · [Visit ↗](https://the2en.github.io/) |
 
 ### 🧑‍💻 Languages
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
