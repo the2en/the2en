@@ -4,14 +4,11 @@
 
 # Seeun Kim
 
-### Things I made
+### ⏯️ Things I made
 
-| 🌱 POP TREE | ◎ POTHOLE DETECTION |
+| 🌱 POP TREE | **▥ ESG PREDICTION** |
 | :--- | :--- |
-| 소비 기록과 나무 성장, GPT 기반 금융상품 추천을 연결한 팀 프로젝트.<br>**Vue · Django · GPT**<br>[Repository ↗](https://github.com/the2en/poptree) | 도로 이미지 전처리와 포트홀 탐지를 실험한 AI 챌린지.<br>**Python · OpenCV · Computer Vision**<br>[Repository ↗](https://github.com/the2en/ssafy_ai_challenge) |
-| **▥ ESG PREDICTION** | **✦ THESEN.LOG** |
-| 기업 재무 데이터와 ESG 등급을 정리하고, 분류·회귀 모델로 예측을 실험한 프로젝트.<br>**Python · Pandas · scikit-learn**<br>[Repository ↗](https://github.com/the2en/ESG_Prediction) | 글, 취향, 프로젝트를 모아둔 레트로 도트 스타일의 개인 블로그.<br>**HTML · CSS · JavaScript**<br>[Repository ↗](https://github.com/the2en/the2en.github.io) · [Visit ↗](https://the2en.github.io/) |
-
+| 소비 기록과 나무 성장, GPT 기반 금융상품 추천을 연결한 프로젝트. br>**Vue · Django · GPT**<br>[Repository ↗](https://github.com/the2en/poptree) | 기업 재무 데이터와 ESG 등급을 정리하고, 분류·회귀 모델로 예측을 실험한 프로젝트.<br>**Python · Pandas · scikit-learn**<br>[Repository ↗](https://github.com/the2en/ESG_Prediction) |
 ### 🧑‍💻 Languages
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
