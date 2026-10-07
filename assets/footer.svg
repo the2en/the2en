@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="66" viewBox="0 0 900 66" role="img" aria-labelledby="title"><title id="title">Made with love, curiosity and too many tabs.</title>
+<defs><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#2257c8" opacity=".18"/></pattern></defs>
+<rect x="1.5" y="1.5" width="897" height="63" fill="#fff9e9" stroke="#173b8f" stroke-width="3"/>
+<rect x="3" y="3" width="894" height="60" fill="url(#dots)"/>
+<text x="25" y="40" fill="#173b8f" font-family="Arial Black,Arial,sans-serif" font-size="22" font-weight="900" letter-spacing="-1">theSen<tspan fill="#f863a8">.</tspan>log</text>
+<text x="875" y="38" text-anchor="end" fill="#173b8f" font-family="Courier New,monospace" font-size="12" font-weight="700" letter-spacing="1">MADE WITH <tspan fill="#f863a8">♥</tspan>, CURIOSITY &amp; TOO MANY TABS.</text>
+</svg>

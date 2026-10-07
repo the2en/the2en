@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="426" viewBox="0 0 900 426" role="img" aria-labelledby="title"><title id="title">theSen.log — Seeun Kim. Write, make, collect. Seoul, KR.</title>
+<defs>
+  <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.2" fill="#2257c8" opacity=".17"/></pattern>
+</defs>
+<rect width="900" height="426" fill="#fff9e9"/>
+<rect width="900" height="426" fill="url(#dots)"/>
+<rect width="900" height="32" fill="#173b8f"/>
+<circle cx="23" cy="16" r="4" fill="#a9eee4"/>
+<g font-family="Courier New,monospace" font-weight="700" font-size="11" fill="#fffdf6">
+  <text x="36" y="20">ONLINE</text><text x="450" y="20" text-anchor="middle" letter-spacing="1.2">WELCOME TO MY TINY CORNER OF THE WEB</text><text x="876" y="20" text-anchor="end">SEOUL, KR</text>
+</g>
+<path d="M0 88H900M490 88V385M0 385H900" fill="none" stroke="#173b8f" stroke-width="3"/>
+<rect x="492" y="90" width="408" height="293" fill="#ffd4e6"/>
+<rect x="492" y="90" width="408" height="293" fill="url(#dots)"/>
+<path d="M34 48Q34 60 46 60Q34 60 34 72Q34 60 22 60Q34 60 34 48Z" fill="#f863a8" stroke="#173b8f" stroke-width="2"/>
+<text x="57" y="70" fill="#173b8f" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="31" letter-spacing="-1.8">theSen<tspan fill="#f863a8">.</tspan>log</text>
+<text x="873" y="63" text-anchor="end" fill="#173b8f" font-family="Courier New,monospace" font-weight="700" font-size="11" letter-spacing="1.2">PROFILE / SEEUN KIM</text>
+<text x="33" y="125" fill="#2257c8" font-family="Courier New,monospace" font-weight="700" font-size="12" letter-spacing="2">A PERSONAL ARCHIVE OF</text>
+<g font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="67" letter-spacing="-3">
+  <text x="29" y="204" fill="#173b8f">WRITE<tspan fill="#f863a8">.</tspan></text>
+  <text x="29" y="269" fill="#173b8f">MAKE<tspan fill="#ffe66f" stroke="#173b8f" stroke-width="1.2">.</tspan></text>
+  <text x="29" y="334" fill="#fff9e9" stroke="#173b8f" stroke-width="2.2" paint-order="stroke">COLLECT<tspan fill="#a9eee4" stroke-width="1.2">.</tspan></text>
+</g>
+<text x="33" y="363" fill="#173b8f" font-family="Courier New,monospace" font-size="12" font-weight="700">WEB · DATA · AI · WRITING</text>
+<g transform="translate(578 145)">
+  <rect x="7" y="7" width="235" height="165" rx="16" fill="#173b8f"/>
+  <rect width="235" height="165" rx="16" fill="#bde9ff" stroke="#173b8f" stroke-width="3"/>
+  <path d="M14 19V13H55" fill="none" stroke="white" stroke-width="4"/>
+  <rect x="19" y="20" width="197" height="125" rx="7" fill="#fffdf6" stroke="#173b8f" stroke-width="3"/>
+  <path d="M21 43H214" stroke="#173b8f" stroke-width="3"/>
+  <path d="M21 22H214V42H21Z" fill="#a9eee4"/>
+  <g fill="#f863a8" stroke="#173b8f" stroke-width="1.4"><circle cx="32" cy="32" r="3"/><circle cx="43" cy="32" r="3"/><circle cx="54" cy="32" r="3"/></g>
+  <path d="M117 77C96 63 103 53 111 56L117 62L123 56C133 51 139 66 117 77Z" fill="#f863a8"/>
+  <text x="117" y="108" text-anchor="middle" fill="#173b8f" font-family="Arial Black,Arial,sans-serif" font-size="32" font-weight="900" letter-spacing="-1.5">HELLO!</text>
+  <text x="117" y="128" text-anchor="middle" fill="#2257c8" font-family="Courier New,monospace" font-size="10" font-weight="700">YOU FOUND ME :)</text>
+  <rect x="-5" y="166" width="251" height="28" rx="5" fill="#ffd4e6" stroke="#173b8f" stroke-width="3"/>
+  <rect x="13" y="176" width="72" height="6" rx="2" fill="#173b8f"/>
+  <circle cx="222" cy="180" r="4" fill="#a9eee4" stroke="#173b8f" stroke-width="2"/>
+  <path d="M-14 207H250L266 230H-30Z" fill="#fffdf6" stroke="#173b8f" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M1 215H237M16 222H220" stroke="#173b8f" stroke-width="3" stroke-dasharray="14 5"/>
+</g>
+<path d="M539 161Q539 179 557 179Q539 179 539 197Q539 179 521 179Q539 179 539 161Z" fill="#ffe66f" stroke="#173b8f" stroke-width="2"/><path d="M839 109Q839 124 854 124Q839 124 839 139Q839 124 824 124Q839 124 839 109Z" fill="#f863a8" stroke="#173b8f" stroke-width="2"/><path d="M853 277Q853 288 864 288Q853 288 853 299Q853 288 842 288Q853 288 853 277Z" fill="#a9eee4" stroke="#173b8f" stroke-width="2"/>
+<g transform="translate(519 291) rotate(-10)">
+  <rect x="4" y="4" width="70" height="56" fill="#173b8f"/>
+  <rect width="70" height="56" fill="#ffe66f" stroke="#173b8f" stroke-width="2.5"/>
+  <text x="35" y="24" text-anchor="middle" fill="#173b8f" font-family="Courier New,monospace" font-weight="700" font-size="13">new</text>
+  <text x="35" y="41" text-anchor="middle" fill="#173b8f" font-family="Courier New,monospace" font-weight="700" font-size="13">ideas!</text>
+</g>
+<g fill="#173b8f" font-family="Courier New,monospace" font-weight="700" font-size="11" letter-spacing="1.4">
+  <text x="32" y="410">KEEP LEARNING. KEEP MAKING.</text><text x="873" y="410" text-anchor="end">A LITTLE MORE EVERY DAY <tspan fill="#f863a8">♥</tspan></text>
+</g>
+<rect x="1.5" y="1.5" width="897" height="423" fill="none" stroke="#173b8f" stroke-width="3"/>
+</svg>

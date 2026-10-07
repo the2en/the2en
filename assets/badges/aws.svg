@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="30" viewBox="0 0 46 30" role="img" aria-labelledby="title"><title id="title">AWS</title>
+<rect x="3" y="3" width="42" height="26" fill="#173b8f"/>
+<rect x="1" y="1" width="42" height="25" fill="#ffe66f" stroke="#173b8f" stroke-width="2"/>
+<text x="22" y="18" text-anchor="middle" fill="#173b8f" font-family="Courier New,monospace" font-size="13" font-weight="700">AWS</text>
+</svg>

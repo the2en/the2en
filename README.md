@@ -1,35 +1,79 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SenK&fontAlign=70&rotate=13&fontAlignY=25&desc=Welcome%20to%20Seeun's%20Github!&descAlign=60&descAlignY=44&fontColor=ffffff&descFontColor=ffffff)
-[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fthe2en?color=purple&label=hits&size=small)](https://myhits.vercel.app)
+<!-- Assets: node tools/generate-assets.mjs · Palette: ink #173b8f, cream #fff9e9, pink #f863a8, yellow #ffe66f, mint #a9eee4. -->
 
-# Seeun Kim
+<a href="https://the2en.github.io/">
+  <img src="assets/header.svg" width="100%" alt="theSen.log — Seeun Kim의 개인 아카이브. Write, make, collect." />
+</a>
 
-### 🧑‍💻 Languages
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
-![bigquery](https://img.shields.io/badge/bigquery-4285F4.svg?&style=for-the-badge&logo=google-bigquery&logoColor=white)
-![excel vba](https://img.shields.io/badge/Excel%20VBA-217346.svg?&style=for-the-badge)
+<p align="center">
+  <a href="https://the2en.github.io/"><img src="assets/nav-blog.svg" width="190" alt="블로그 홈 방문하기" /></a>
+  <a href="https://the2en.github.io/stories/"><img src="assets/nav-stories.svg" width="190" alt="블로그 글 읽기" /></a>
+  <a href="https://the2en.github.io/portfolio/"><img src="assets/nav-portfolio.svg" width="190" alt="포트폴리오 보기" /></a>
+</p>
 
-### 📚 Currently Studying
-![java](https://img.shields.io/badge/java-5382A1.svg?&style=for-the-badge)
-![gcp](https://img.shields.io/badge/gcp-4285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
-![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge)
+## Hello, I'm Seeun Kim.
 
-### 🛠️ Tools
-![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)<br>
-![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge)
-![jupyter](https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726)
-![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
-![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
+관찰한 것을 글로 정리하고, 낯선 도구를 배워 아이디어를 화면에 옮깁니다.<br />
+좋아하는 것과 새로 배운 것 사이를 [theSen.log](https://the2en.github.io/)에 기록합니다.
 
-### 🚌 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the2en&layout=compact)<br>
+`SEOUL, KR` · `WEB` · `DATA` · `AI` · `WRITING`
 
-### 🖥️ Algorithm
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=paff1984)](https://solved.ac/profile/paff1984)
+### 01 / Things I made
 
-### 📫 Contact
-[![Email Badge](https://img.shields.io/badge/iblue0126@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iblue0126@gmail.com)
+| 🌱 POP TREE | ◎ POTHOLE DETECTION |
+| :--- | :--- |
+| 소비 기록과 나무 성장, GPT 기반 금융상품 추천을 연결한 팀 프로젝트.<br>**Vue · Django · GPT**<br>[Repository ↗](https://github.com/the2en/poptree) | 도로 이미지 전처리와 포트홀 탐지를 실험한 AI 챌린지.<br>**Python · OpenCV · Computer Vision**<br>[Repository ↗](https://github.com/the2en/ssafy_ai_challenge) |
+| **▥ ESG PREDICTION** | **✦ THESEN.LOG** |
+| 기업 재무 데이터와 ESG 등급을 정리하고, 분류·회귀 모델로 예측을 실험한 프로젝트.<br>**Python · Pandas · scikit-learn**<br>[Repository ↗](https://github.com/the2en/ESG_Prediction) | 글, 취향, 프로젝트를 모아둔 레트로 도트 스타일의 개인 블로그.<br>**HTML · CSS · JavaScript**<br>[Repository ↗](https://github.com/the2en/the2en.github.io) · [Visit ↗](https://the2en.github.io/) |
+
+### 02 / My toolbox
+
+**Languages & data**
+
+<p>
+  <img src="assets/badges/python.svg" height="32" alt="Python" />
+  <img src="assets/badges/mysql.svg" height="32" alt="MySQL" />
+  <img src="assets/badges/oracle.svg" height="32" alt="Oracle" />
+  <img src="assets/badges/bigquery.svg" height="32" alt="BigQuery" />
+  <img src="assets/badges/excel-vba.svg" height="32" alt="Excel VBA" />
+</p>
+
+**Currently studying**
+
+<p>
+  <img src="assets/badges/java.svg" height="32" alt="Java" />
+  <img src="assets/badges/gcp.svg" height="32" alt="Google Cloud Platform" />
+  <img src="assets/badges/aws.svg" height="32" alt="Amazon Web Services" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="assets/badges/git.svg" height="32" alt="Git" />
+  <img src="assets/badges/github.svg" height="32" alt="GitHub" />
+  <img src="assets/badges/notion.svg" height="32" alt="Notion" />
+  <img src="assets/badges/vscode.svg" height="32" alt="Visual Studio Code" />
+  <img src="assets/badges/jupyter.svg" height="32" alt="Jupyter" />
+  <img src="assets/badges/colab.svg" height="32" alt="Google Colab" />
+  <img src="assets/badges/pycharm.svg" height="32" alt="PyCharm" />
+</p>
+
+### 03 / Say hello
+
+[iblue0126@gmail.com](mailto:iblue0126@gmail.com) · [GitHub](https://github.com/the2en) · [solved.ac](https://solved.ac/profile/paff1984)
+
+<details>
+<summary><strong>ACTIVITY.LOG — Languages & algorithm</strong></summary>
+
+#### Top languages
+
+![Seeun Kim의 GitHub 저장소 언어 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=the2en&layout=compact)
+
+#### Algorithm
+
+[![paff1984의 solved.ac 알고리즘 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=paff1984)](https://solved.ac/profile/paff1984)
+
+</details>
+
+<br />
+
+<img src="assets/footer.svg" width="100%" alt="Made with love, curiosity & too many tabs. theSen.log." />

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="30" viewBox="0 0 70 30" role="img" aria-labelledby="title"><title id="title">Notion</title>
+<rect x="3" y="3" width="66" height="26" fill="#173b8f"/>
+<rect x="1" y="1" width="66" height="25" fill="#fffdf6" stroke="#173b8f" stroke-width="2"/>
+<text x="34" y="18" text-anchor="middle" fill="#173b8f" font-family="Courier New,monospace" font-size="13" font-weight="700">Notion</text>
+</svg>

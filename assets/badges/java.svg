@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="30" viewBox="0 0 54 30" role="img" aria-labelledby="title"><title id="title">Java</title>
+<rect x="3" y="3" width="50" height="26" fill="#173b8f"/>
+<rect x="1" y="1" width="50" height="25" fill="#ffd4e6" stroke="#173b8f" stroke-width="2"/>
+<text x="26" y="18" text-anchor="middle" fill="#173b8f" font-family="Courier New,monospace" font-size="13" font-weight="700">Java</text>
+</svg>
