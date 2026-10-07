@@ -8,7 +8,7 @@
 
 | 🌱 POP TREE | **▥ ESG PREDICTION** |
 | :--- | :--- |
-| 소비 기록과 나무 성장, GPT 기반 금융상품 추천을 연결한 프로젝트. br>**Vue · Django · GPT**<br>[Repository ↗](https://github.com/the2en/poptree) | 기업 재무 데이터와 ESG 등급을 정리하고, 분류·회귀 모델로 예측을 실험한 프로젝트.<br>**Python · Pandas · scikit-learn**<br>[Repository ↗](https://github.com/the2en/ESG_Prediction) |
+| 소비 기록과 나무 성장, GPT 기반 금융상품 추천을 연결한 프로젝트 <br>**Vue · Django · GPT**<br>[Repository ↗](https://github.com/the2en/poptree) | 기업 재무 데이터와 ESG 등급을 정리하고, 분류·회귀 모델로 예측을 실험한 프로젝트<br>**Python · Pandas · scikit-learn**<br>[Repository ↗](https://github.com/the2en/ESG_Prediction) |
 ### 🧑‍💻 Languages
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
