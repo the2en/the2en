@@ -43,4 +43,4 @@
 [![Email Badge](https://img.shields.io/badge/iblue0126@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iblue0126@gmail.com)
 
 <!-- Footer -->
-![Made with love, curiosity & too many tabs.](assets/footer.svg)
+![Thanks for stopping by](assets/footer.svg)
