@@ -6,9 +6,21 @@
 
 ### ⏯️ Things I made
 
-| 🌱 POP TREE | **▥ ESG PREDICTION** |
-| :--- | :--- |
-| 소비 기록과 나무 성장, GPT 기반 금융상품 추천을 연결한 프로젝트 <br>**Vue · Django · GPT**<br>[Repository ↗](https://github.com/the2en/poptree) | 기업 재무 데이터와 ESG 등급을 정리하고, 분류·회귀 모델로 예측을 실험한 프로젝트<br>**Python · Pandas · scikit-learn**<br>[Repository ↗](https://github.com/the2en/ESG_Prediction) |
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="50%">🌱 POP TREE</th>
+      <th align="left" width="50%"><strong>▥ ESG PREDICTION</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top" width="50%">소비 기록과 나무 성장, GPT 기반 금융상품 추천을 연결한 프로젝트 <br><strong>Vue · Django · GPT</strong><br><a href="https://github.com/the2en/poptree">Repository ↗</a></td>
+      <td align="left" valign="top" width="50%">기업 재무 데이터와 ESG 등급을 정리하고, 분류·회귀 모델로 예측을 실험한 프로젝트<br><strong>Python · Pandas · scikit-learn</strong><br><a href="https://github.com/the2en/ESG_Prediction">Repository ↗</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ### 🧑‍💻 Languages
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
